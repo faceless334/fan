@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+
+
+header {
+    background-color: #8B0000;
+    color: blueviolet;
+    padding: 10px;
+}
+
+a header {
+    color: blueviolet;
+    border: 2 px solid white;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+
+main h1 {
+    border: 3px solid #B22222;
+    text-align: center;
+    color: #FF4500;
+    padding: 5px;
+}
+
+footer {
+    background-color: #8B0000;
+    color:Crimson ;
+    padding: 20px;
+
+}
+
+nav {
+    padding: 20px;
+}
+
+a nav {
+   margin: 20px; 
+   text-decoration: none;
+   border:  2px solid #8B0000;
+   border-radius: 10px;
+   padding: 7px;
+}
